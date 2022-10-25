@@ -12,7 +12,7 @@ Ensure you have the following installed:
 
 #### Setup
 ``` 
-https://github.com/aggviolinist/aggviolinist-aggviolinist-Amass-subdomain-enumerator
+https://github.com/aggviolinist/aggviolinist-aggviolinist-Amass-subdomain-enumerator/blob/main/amass-subdomain-scapper.sh
 ```
 #### Run
 ```
